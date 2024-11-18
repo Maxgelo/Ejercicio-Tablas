@@ -1,0 +1,19 @@
+table, tr, td {
+    border: 0.4px solid black;
+    border-collapse: collapse
+}
+.ta {
+    background-color: blue;
+}
+.tb {
+    background-color: red;
+}
+
+.tc {
+    background-color: rgb(255, 106, 0);
+}
+
+.td {
+    background-color: chocolate;
+}
+
